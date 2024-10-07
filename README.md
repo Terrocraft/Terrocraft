@@ -1,24 +1,33 @@
 # 🎮 Terrocraft - Java Developer
 
-## Willkommen auf meinem GitHub-Profil!
+## Welcome to my GitHub profile!
 
-Ich bin ein Java-Entwickler mit Leidenschaft für die Programmierung von Minecraft Plugins!
+I am a Java developer with a passion for programming Minecraft plugins!
 
-### ✨ Projekte und Plugins ✨
+### ✨ Projects and Plugins ✨
 
 - 🛠️ [RandEditor](https://github.com/Terrocraft/Randeditor)
 
-### 📫 Kontakt
+### 📫 Contact
 
-Du kannst mich auf Discord erreichen: **Terrocraft**  
-[Discord-Link](https://discord.com/users/Terrocraft)
+You can reach me on Discord: **Terrocraft**  
+[Discord Link](https://discord.com/users/Terrocraft)
 
 ---
 
-### 🚀 Lass uns zusammenarbeiten!
+### 🚀 Let's collaborate!
 
-🌟 Ich freue mich auf spannende Projekte und Zusammenarbeit! 🌟
-##
+🌟 I'm excited about working on interesting projects and collaborating! 🌟
+
+---
+
+## 🔥 My Year on GitHub
+
+Check out what I've achieved on GitHub this year:
+
+[![GitHub Unwrapped](https://githubunwrapped.com/Terrocraft/badge)](https://githubunwrapped.com/Terrocraft)
+
+---
 
 <img align="left" alt="Terrocraft | Github Stats" src="https://github-readme-stats.vercel.app/api?username=Terrocraft&count_private=true&show_icons=true&hide_border=true5&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 <img align="left" alt="Terrocraft | Github Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Terrocraft&count_private=true&show_icons=true&hide_border=true5&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
