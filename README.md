@@ -31,7 +31,7 @@ Check out what I've achieved on GitHub this year:
 
 ## 📊 GitHub Statistics
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Terrocraft.Terrocraft)
+![](https://visitor-badge.laobi.icu/badge?page_id=Terrocraft.Terrocraft)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Terrocraft&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
