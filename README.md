@@ -41,3 +41,4 @@ Check out what I've achieved on GitHub this year:
 <img src="https://raw.githubusercontent.com/Terrocraft/Terrocraft/output/snake.svg" alt="Snake animation" />
 
 <img align="center" src="https://blog.twinstate.com/hubfs/layereight-OSI-model-funnel-inforgraphic-01.png">
+💡 **Code is art!** Thank you for stopping by!
