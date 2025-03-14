@@ -1,6 +1,8 @@
-# 🎮 Terrocraft - Java Developer
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=36&duration=3000&pause=1000&color=FFFFFF&background=FFFFFF00&center=true&vCenter=true&random=false&width=500&height=70&lines=Terrocraft+-+Java+Developer;German+Java+Devaloper;Java+Enthusiast;Minecraft+Lover;Arduino+Developer;Minecraft+Plugin+Developer" alt="Typing SVG" />
+</div>
 
-## Welcome to my GitHub profile!
+---
 
 I am a Java developer with a passion for programming Minecraft plugins!
 
@@ -8,6 +10,9 @@ I am a Java developer with a passion for programming Minecraft plugins!
 
 - 🛠️ [RandEditor](https://github.com/Terrocraft/Randeditor)
 - 🛠️ [Stepper8825Lib](https://github.com/WBS-Wissen/Stepper8825Lib)
+
+### I Work With
+<img src="https://skillicons.dev/icons?i=java,idea,html,css,js,cloudflare,mysql,arduino,cpp,github" /><br>
 
 ### 📫 Contact
 
