@@ -44,10 +44,6 @@ Check out what I've achieved on GitHub this year:
 <img align="left" alt="Terrocraft | Github Stats" src="https://github-readme-stats.vercel.app/api?username=Terrocraft&count_private=true&show_icons=true&hide_border=true5&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 <img align="left" alt="Terrocraft | Github Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Terrocraft&count_private=true&show_icons=true&hide_border=true5&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 
-<img src="https://raw.githubusercontent.com/Terrocraft/Terrocraft/output/snake.svg" alt="Snake animation" />
-
-<img align="center" src="https://blog.twinstate.com/hubfs/layereight-OSI-model-funnel-inforgraphic-01.png">
-
 ---
 
 <h4>💡 Code is art!</h4>  
