@@ -39,6 +39,8 @@ Check out what I've achieved on GitHub this year:
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=Terrocraft.Terrocraft)
 
+<img src="https://raw.githubusercontent.com/Terrocraft/Terrocraft/output/snake.svg" alt="Snake animation" />
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=Terrocraft&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 <div>
 <img align="left" alt="Terrocraft | Github Stats" src="https://github-readme-stats.vercel.app/api?username=Terrocraft&count_private=true&show_icons=true&hide_border=true5&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
