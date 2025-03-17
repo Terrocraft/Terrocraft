@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=36&duration=3000&pause=1000&color=FFFFFF&background=FFFFFF00&center=true&vCenter=true&random=false&width=500&height=70&lines=Terrocraft+-+Java+Developer;German+Java+Devaloper;Java+Enthusiast;Minecraft+Lover;Arduino+Developer;Minecraft+Plugin+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=36&duration=3000&pause=1000&color=FFFFFF&background=FFFFFF00&center=true&vCenter=true&random=false&width=500&height=70&lines=Terrocraft+-+Java+Developer;German+Java+Devaloper;Java+Enthusiast;Minecraft+Lover;Arduino+Developer;Minecraft+Plugin+Developer;Pleace+follow+me!" alt="Typing SVG" />
+  
+![](https://visitor-badge.laobi.icu/badge?page_id=Terrocraft.Terrocraft)
 </div>
 
 ---
@@ -19,13 +21,11 @@ I am a Java developer with a passion for programming Minecraft plugins!
 You can reach me on Discord: **Terrocraft**  
 [Discord Link](https://discord.com/users/Terrocraft)
 
----
 
 ### 🚀 Let's collaborate!
 
 🌟 I'm excited about working on interesting projects and collaborating! 🌟
 
----
 
 ## 🔥 My Year on GitHub
 
@@ -33,11 +33,7 @@ Check out what I've achieved on GitHub this year:
 
 [![GitHub Unwrapped](https://githubunwrapped.com/Terrocraft/badge)](https://githubunwrapped.com/Terrocraft)
 
----
-
 ## 📊 GitHub Statistics
-
-![](https://visitor-badge.laobi.icu/badge?page_id=Terrocraft.Terrocraft)
 
 <img src="https://raw.githubusercontent.com/Terrocraft/Terrocraft/output/snake.svg" alt="Snake animation" />
 
