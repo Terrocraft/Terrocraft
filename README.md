@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=36&duration=3000&pause=1000&color=FFFFFF&background=FFFFFF00&center=true&vCenter=true&random=false&width=500&height=70&lines=Tamashii+-+Java+Developer;I+live+in+Germany;Minecraft+Lover;Minecraft+Plugin+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=36&duration=3000&pause=1000&color=FFFFFF&background=FFFFFF00&center=true&vCenter=true&random=false&width=500&height=70&lines=Tamashii+-+Java+Developer;I+live+in+Germany;Minecraft+Lover;Minecraft+Plugin+Developer;Yes+i+am+a+Femboy" alt="Typing SVG" />
   
 ![](https://visitor-badge.laobi.icu/badge?page_id=Terrocraft.Terrocraft)
 </div>
