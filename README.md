@@ -11,6 +11,9 @@ I might not be the best, and yes, I use AI for about 30 to 40% of my work, but I
 
 I know, I don't have many public projects, but not nothing either.
 
+### 🖍️ CrayonSMP
+[**CrayonSMP**](https://crayonsmp.com/) is a Minecraft Server, where players can add their own Content!
+
 ### 📫 Contact
 
 You can reach me on Discord: **TamashiiMon**  
